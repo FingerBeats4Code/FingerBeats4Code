@@ -57,7 +57,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/durgauniyal/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/durga-uniyal-79b8119a)  
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30862112/durga-uniyal)
 
 ---
